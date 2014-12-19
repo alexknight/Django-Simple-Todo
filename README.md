@@ -1,6 +1,6 @@
 Django-Simple-Todo
 ==================
-
+liaosf 定制版
 simple-todo dajngo版
 
 使用的环境： fedora 17 + django1.4 + python2.7 + sqlite3
